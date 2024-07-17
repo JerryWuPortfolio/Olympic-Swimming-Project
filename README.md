@@ -1,1 +1,1 @@
-# Olympic-Swimming-Project
+# Olympics Swimming Project
